@@ -7,6 +7,8 @@ Plug 'chuling/equinusocio-material.vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'rust-lang/rust.vim'
 Plug 'dart-lang/dart-vim-plugin'
+Plug 'vim-airline/vim-airline'
+Plug 'junegunn/fzf.vim'
 call plug#end()
 
 let g:lsc_auto_map = v:true
@@ -16,7 +18,15 @@ let g:lsc_auto_map = v:true
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-z> :undo<CR>
 nnoremap <C-y> :redo<CR>
-noremap <C-a>c :set autochdir<CR>
+noremap <C-a>  :set autochdir<CR>
+inoremap <C-s> <ESC>:w<CR>
+map <C-s> :w<CR>
+nnoremap <C-q> :q<CR>
+
+" open horizontal spaces
+nnoremap <C-h> :sp<CR>
+" open vertical spaces
+nnoremap <C-v> :vs<CR>
 " tabs and untab (hell)
 nnoremap <Tab> >>_
 nnoremap <S-Tab> <<_
@@ -24,6 +34,8 @@ inoremap <S-Tab> <C-D>
 vnoremap <Tab> >gv
 vnoremap <S-Tab> <gv
 
+" fzf
+nnoremap f :Files<CR>
 
 
 set number
@@ -38,15 +50,6 @@ syntax on
 set termguicolors
 
 set autochdir
-
-" keywords bolded, disabled(=0) by default
-" let g:ci_dark_enable_bold = 1
-" 
-" colorscheme ci_dark
-
-" colorscheme papaya
-" let g:papaya_gui_color='blue'
-
 
 " ''''''''''MATERIAL COLOR SCHEME
 
@@ -80,6 +83,8 @@ set fillchars+=vert:│
 
 colorscheme equinusocio_material
 
+hi Normal guibg=NONE ctermbg=NONE
+
 " this theme has a buildin lightline/airline theme
 let g:airline_theme = 'equinusocio_material'
 let g:lightline = {
@@ -90,9 +95,6 @@ let g:lightline = {
 "
 " better vertsplit char
 set fillchars+=vert:│
-
-let g:airline_theme = 'ci_dark'
-
 
 " Configuration floaterm
 let g:floaterm_keymap_new    = '<F7>'
@@ -255,8 +257,8 @@ endif
 
 " Use CTRL-S for selections ranges.
 " Requires 'textDocument/selectionRange' support of language server.
-nmap <silent> <C-s> <Plug>(coc-range-select)
-xmap <silent> <C-s> <Plug>(coc-range-select)
+" nmap <silent> <C-s> <Plug>(coc-range-select)
+" xmap <silent> <C-s> <Plug>(coc-range-select)
 
 " Add `:Format` command to format current buffer.
 command! -nargs=0 Format :call CocAction('format')
