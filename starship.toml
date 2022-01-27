@@ -26,7 +26,7 @@ format = "via [ ﳑ $version](bold cyan) "
 
 [python]
 symbol = " "
-pyenv_version_name = true
+pyenv_version_name = false
 
 [nodejs]
 format = "via [🤖 $version](bold green) "
@@ -44,6 +44,9 @@ show_always = true
 [rust]
 format = "via [ $version ](red bold)"
 
+[dart]
+format = "via [ $version](bold blue) "
+
 [[battery.display]]  # "bold red" style and discharging_symbol when capacity is between 0% and 10%
 threshold = 30
 style = "bold red"
@@ -51,3 +54,4 @@ style = "bold red"
 [[battery.display]]  # "bold yellow" style and 💦 symbol when capacity is between 10% and 30%
 threshold = 40
 style = "bold yellow"
+

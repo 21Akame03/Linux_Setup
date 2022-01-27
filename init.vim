@@ -24,7 +24,7 @@ map <C-s> :w<CR>
 nnoremap <C-q> :q<CR>
 
 " open horizontal spaces
-nnoremap <C-h> :sp<CR>
+nnoremap <C-v>v :sp<CR>
 " open vertical spaces
 nnoremap <C-v> :vs<CR>
 " tabs and untab (hell)
@@ -37,6 +37,11 @@ vnoremap <S-Tab> <gv
 " fzf
 nnoremap f :Files<CR>
 
+" navigation
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
 
 set number
 set clipboard=unnamedplus
