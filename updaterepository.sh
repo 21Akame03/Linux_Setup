@@ -4,7 +4,7 @@ set -e
 message=$1
 
 cp ~/.config/starship.toml ./
-cp ~/.config/nvim/init.vim ./
+cp ~/.config/nvim ./ -r
 
 git add .
 git status
