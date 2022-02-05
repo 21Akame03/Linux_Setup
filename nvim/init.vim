@@ -7,6 +7,9 @@ Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'rust-lang/rust.vim'
 Plug 'dart-lang/dart-vim-plugin'
 Plug 'junegunn/fzf.vim'
+Plug 'glepnir/dashboard-nvim'
+Plug 'liuchengxu/vim-clap'
+Plug 'nvim-lua/telescope.nvim'
 call plug#end()
 
 let g:lsc_auto_map = v:true
@@ -46,6 +49,26 @@ end
 EOF
 
 
+" dashboard 
+let g:mapleader="\<Space>"
+let g:dashboard_default_executive ='telescope'
+nmap <Leader>ss :<C-u>SessionSave<CR>
+nmap <Leader>sl :<C-u>SessionLoad<CR>
+nnoremap <silent> <Leader>fh :DashboardFindHistory<CR>
+nnoremap <silent> <Leader>ff :DashboardFindFile<CR>
+nnoremap <silent> <Leader>tc :DashboardChangeColorscheme<CR>
+nnoremap <silent> <Leader>fa :DashboardFindWord<CR>
+nnoremap <silent> <Leader>fb :DashboardJumpMark<CR>
+nnoremap <silent> <Leader>cn :DashboardNewFile<CR>
+
+ let g:dashboard_custom_header = [
+          \ '',
+          \ '    // | |                                           ',
+          \'   //__| |    / ___      ___      _   __      ___    ',
+          \'  / ___  |   //\ \     //   ) ) // ) )  ) ) //___) ) ',
+          \' //    | |  //  \ \   //   / / // / /  / / //        ',
+          \'//     | | //    \ \ ((___( ( // / /  / / ((____     ',
+        \ ]
 
 
 "" shortcut mappings
