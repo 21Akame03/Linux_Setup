@@ -130,51 +130,51 @@ local plugins = {
 
    -- cmp by default loads after friendly snippets
    -- if snippets are disabled -> cmp loads on insertEnter!
-   {
-      "hrsh7th/nvim-cmp",
-      disable = not plugin_settings.status.cmp,
-      event = not plugin_settings.status.snippets and "InsertEnter",
-      after = plugin_settings.status.snippets and "friendly-snippets",
-      config = override_req("nvim_cmp", "plugins.configs.cmp", "setup"),
-   },
+   -- {
+   --    "hrsh7th/nvim-cmp",
+   --    disable = not plugin_settings.status.cmp,
+   --    event = not plugin_settings.status.snippets and "InsertEnter",
+   --    after = plugin_settings.status.snippets and "friendly-snippets",
+   --    config = override_req("nvim_cmp", "plugins.configs.cmp", "setup"),
+   -- },
 
-   {
-      "L3MON4D3/LuaSnip",
-      disable = not (plugin_settings.status.cmp and plugin_settings.status.snippets),
-      wants = "friendly-snippets",
-      after = "nvim-cmp",
-      config = override_req("luasnip", "plugins.configs.others", "luasnip"),
-   },
+   -- {
+   --    "L3MON4D3/LuaSnip",
+   --    disable = not (plugin_settings.status.cmp and plugin_settings.status.snippets),
+   --    wants = "friendly-snippets",
+   --    after = "nvim-cmp",
+   --    config = override_req("luasnip", "plugins.configs.others", "luasnip"),
+   -- },
 
-   {
-      "saadparwaiz1/cmp_luasnip",
-      disable = not (plugin_settings.status.cmp and plugin_settings.status.snippets),
-      after = plugin_settings.options.cmp.lazy_load and "LuaSnip",
-   },
+   -- {
+   --    "saadparwaiz1/cmp_luasnip",
+   --    disable = not (plugin_settings.status.cmp and plugin_settings.status.snippets),
+   --    after = plugin_settings.options.cmp.lazy_load and "LuaSnip",
+   -- },
 
-   {
-      "hrsh7th/cmp-nvim-lua",
-      disable = not plugin_settings.status.cmp,
-      after = (plugin_settings.status.snippets and "cmp_luasnip") or "nvim-cmp",
-   },
+   -- {
+   --    "hrsh7th/cmp-nvim-lua",
+   --    disable = not plugin_settings.status.cmp,
+   --    after = (plugin_settings.status.snippets and "cmp_luasnip") or "nvim-cmp",
+   -- },
 
-   {
-      "hrsh7th/cmp-nvim-lsp",
-      disable = not plugin_settings.status.cmp,
-      after = "cmp-nvim-lua",
-   },
+   -- {
+   --    "hrsh7th/cmp-nvim-lsp",
+   --    disable = not plugin_settings.status.cmp,
+   --    after = "cmp-nvim-lua",
+   -- },
 
-   {
-      "hrsh7th/cmp-buffer",
-      disable = not plugin_settings.status.cmp,
-      after = "cmp-nvim-lsp",
-   },
+   -- {
+   --    "hrsh7th/cmp-buffer",
+   --    disable = not plugin_settings.status.cmp,
+   --    after = "cmp-nvim-lsp",
+   -- },
 
-   {
-      "hrsh7th/cmp-path",
-      disable = not plugin_settings.status.cmp,
-      after = "cmp-buffer",
-   },
+   -- {
+   --    "hrsh7th/cmp-path",
+   --    disable = not plugin_settings.status.cmp,
+   --    after = "cmp-buffer",
+   -- },
 
    -- misc plugins
    {

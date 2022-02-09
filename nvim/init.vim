@@ -1,5 +1,4 @@
 call plug#begin()
-Plug 'scrooloose/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'voldikss/vim-floaterm'
 Plug 'aluriak/nerdcommenter'
