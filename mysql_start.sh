@@ -1,6 +1,7 @@
 #!/usr/bin/bash
+set -e
 
-option=$1
+option={$1:""}
 
 if [option -eq "-c" || option -eq "-Create"]
 then

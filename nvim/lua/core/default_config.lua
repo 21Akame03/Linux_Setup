@@ -68,7 +68,7 @@ M.plugins = {
       gitsigns = true,
       lspsignature = true, -- lsp enhancements
       vim_matchup = true, -- improved matchit
-      cmp = true,
+      cmp = false, 
       snippets = true,
       nvimtree = true,
       autopairs = true,
@@ -77,10 +77,7 @@ M.plugins = {
       packer = {
          init_file = "plugins.packerInit",
       },
-      autopairs = { loadAfter = "nvim-cmp" },
-      cmp = {
-         lazy_load = true,
-      },
+     
       lspconfig = {
          setup_lspconf = "", -- path of file containing setups of different lsps
       },
