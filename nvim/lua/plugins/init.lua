@@ -121,12 +121,12 @@ local plugins = {
 
    -- load luasnips + cmp related in insert mode only
 
-   {
-      "rafamadriz/friendly-snippets",
-      module = "cmp_nvim_lsp",
-      disable = not (plugin_settings.status.cmp and plugin_settings.status.snippets),
-      event = "InsertEnter",
-   },
+   -- {
+   --    "rafamadriz/friendly-snippets",
+   --    module = "cmp_nvim_lsp",
+   --    disable = not (plugin_settings.status.cmp and plugin_settings.status.snippets),
+   --    event = "InsertEnter",
+   -- },
 
    -- cmp by default loads after friendly snippets
    -- if snippets are disabled -> cmp loads on insertEnter!
