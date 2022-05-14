@@ -1,0 +1,9 @@
+[INFO  Fri 13 May 2022 12:58:34 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:705: Starting install server_name="vimls", requested_version=""
+[INFO  Fri 13 May 2022 12:58:43 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:724: Installation completed server_name="vimls", success=true
+[INFO  Fri 13 May 2022 01:12:38 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:705: Starting install server_name="rust_analyzer", requested_version=""
+[ERROR Fri 13 May 2022 01:12:38 AM +04] ...im-lsp-installer/lua/nvim-lsp-installer/core/process.lua:153: Failed to spawn process. cmd="gh", err="ENOENT: no such file or directory"
+[INFO  Fri 13 May 2022 01:12:53 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:724: Installation completed server_name="rust_analyzer", success=true
+[INFO  Fri 13 May 2022 02:44:21 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:705: Starting install server_name="pyright", requested_version=""
+[INFO  Fri 13 May 2022 02:44:30 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:724: Installation completed server_name="pyright", success=true
+[INFO  Sat 14 May 2022 12:33:32 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:705: Starting install server_name="gopls", requested_version=""
+[INFO  Sat 14 May 2022 12:34:55 AM +04] ...rt/nvim-lsp-installer/lua/nvim-lsp-installer/ui/init.lua:724: Installation completed server_name="gopls", success=true

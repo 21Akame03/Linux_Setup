@@ -1,0 +1,172 @@
+[START][2022-05-13 00:43:51] LSP logging initiated
+[START][2022-05-13 00:45:41] LSP logging initiated
+[START][2022-05-13 00:47:25] LSP logging initiated
+[START][2022-05-13 00:47:48] LSP logging initiated
+[START][2022-05-13 00:48:16] LSP logging initiated
+[START][2022-05-13 00:48:43] LSP logging initiated
+[START][2022-05-13 00:47:03] LSP logging initiated
+[START][2022-05-13 00:49:19] LSP logging initiated
+[START][2022-05-13 00:50:29] LSP logging initiated
+[START][2022-05-13 00:49:10] LSP logging initiated
+[START][2022-05-13 00:51:00] LSP logging initiated
+[START][2022-05-13 00:51:47] LSP logging initiated
+[START][2022-05-13 00:53:25] LSP logging initiated
+[START][2022-05-13 00:53:51] LSP logging initiated
+[START][2022-05-13 00:53:56] LSP logging initiated
+[START][2022-05-13 00:55:06] LSP logging initiated
+[START][2022-05-13 00:55:36] LSP logging initiated
+[START][2022-05-13 00:57:24] LSP logging initiated
+[START][2022-05-13 00:59:28] LSP logging initiated
+[START][2022-05-13 00:59:38] LSP logging initiated
+[START][2022-05-13 01:02:06] LSP logging initiated
+[START][2022-05-13 01:02:37] LSP logging initiated
+[START][2022-05-13 01:03:27] LSP logging initiated
+[START][2022-05-13 01:04:40] LSP logging initiated
+[START][2022-05-13 01:08:44] LSP logging initiated
+[START][2022-05-13 01:08:54] LSP logging initiated
+[START][2022-05-13 01:11:03] LSP logging initiated
+[START][2022-05-13 01:12:38] LSP logging initiated
+[START][2022-05-13 02:15:40] LSP logging initiated
+[START][2022-05-13 02:16:43] LSP logging initiated
+[START][2022-05-13 02:20:00] LSP logging initiated
+[START][2022-05-13 02:22:49] LSP logging initiated
+[START][2022-05-13 02:26:51] LSP logging initiated
+[START][2022-05-13 02:27:46] LSP logging initiated
+[START][2022-05-13 02:28:03] LSP logging initiated
+[START][2022-05-13 02:28:54] LSP logging initiated
+[START][2022-05-13 02:29:00] LSP logging initiated
+[START][2022-05-13 02:30:44] LSP logging initiated
+[START][2022-05-13 02:31:16] LSP logging initiated
+[START][2022-05-13 02:33:06] LSP logging initiated
+[START][2022-05-13 02:33:20] LSP logging initiated
+[START][2022-05-13 02:33:30] LSP logging initiated
+[START][2022-05-13 02:33:58] LSP logging initiated
+[START][2022-05-13 02:34:03] LSP logging initiated
+[START][2022-05-13 02:34:42] LSP logging initiated
+[START][2022-05-13 02:34:58] LSP logging initiated
+[START][2022-05-13 02:35:30] LSP logging initiated
+[START][2022-05-13 02:36:09] LSP logging initiated
+[START][2022-05-13 02:36:13] LSP logging initiated
+[START][2022-05-13 02:36:51] LSP logging initiated
+[START][2022-05-13 02:38:56] LSP logging initiated
+[START][2022-05-13 02:44:20] LSP logging initiated
+[WARN][2022-05-13 02:44:30] ...lsp/handlers.lua:109	"The language server pyright triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2022-05-13 02:44:30] ...lsp/handlers.lua:456	"stubPath /home/akame/Prog/Stella_backend/src/typings is not a valid directory."
+[START][2022-05-13 02:46:04] LSP logging initiated
+[START][2022-05-13 02:49:41] LSP logging initiated
+[START][2022-05-13 02:49:54] LSP logging initiated
+[START][2022-05-13 02:50:50] LSP logging initiated
+[START][2022-05-13 02:56:58] LSP logging initiated
+[START][2022-05-13 02:57:24] LSP logging initiated
+[START][2022-05-13 02:58:31] LSP logging initiated
+[START][2022-05-13 02:59:26] LSP logging initiated
+[START][2022-05-13 03:00:36] LSP logging initiated
+[START][2022-05-13 03:00:53] LSP logging initiated
+[START][2022-05-13 03:02:18] LSP logging initiated
+[START][2022-05-13 03:04:48] LSP logging initiated
+[START][2022-05-13 03:26:20] LSP logging initiated
+[START][2022-05-13 11:32:18] LSP logging initiated
+[START][2022-05-13 11:32:33] LSP logging initiated
+[START][2022-05-13 11:39:31] LSP logging initiated
+[START][2022-05-13 11:39:54] LSP logging initiated
+[START][2022-05-13 11:40:29] LSP logging initiated
+[START][2022-05-13 11:40:57] LSP logging initiated
+[START][2022-05-13 11:41:40] LSP logging initiated
+[START][2022-05-13 11:41:53] LSP logging initiated
+[START][2022-05-13 11:45:17] LSP logging initiated
+[START][2022-05-13 11:45:26] LSP logging initiated
+[START][2022-05-13 11:50:38] LSP logging initiated
+[START][2022-05-13 11:50:50] LSP logging initiated
+[START][2022-05-13 11:53:06] LSP logging initiated
+[START][2022-05-13 11:53:21] LSP logging initiated
+[START][2022-05-13 11:53:52] LSP logging initiated
+[START][2022-05-13 11:53:56] LSP logging initiated
+[START][2022-05-13 11:54:16] LSP logging initiated
+[START][2022-05-13 11:54:22] LSP logging initiated
+[START][2022-05-13 11:54:38] LSP logging initiated
+[START][2022-05-13 11:54:46] LSP logging initiated
+[START][2022-05-13 11:55:06] LSP logging initiated
+[START][2022-05-13 11:55:18] LSP logging initiated
+[START][2022-05-13 11:55:36] LSP logging initiated
+[START][2022-05-13 11:33:36] LSP logging initiated
+[START][2022-05-13 11:57:22] LSP logging initiated
+[START][2022-05-13 11:58:15] LSP logging initiated
+[START][2022-05-13 11:59:07] LSP logging initiated
+[START][2022-05-13 11:59:15] LSP logging initiated
+[START][2022-05-13 11:59:36] LSP logging initiated
+[START][2022-05-13 12:03:38] LSP logging initiated
+[START][2022-05-13 12:03:45] LSP logging initiated
+[START][2022-05-13 12:07:46] LSP logging initiated
+[START][2022-05-14 00:27:57] LSP logging initiated
+[START][2022-05-14 00:28:48] LSP logging initiated
+[START][2022-05-14 00:30:26] LSP logging initiated
+[START][2022-05-14 00:33:32] LSP logging initiated
+[ERROR][2022-05-14 00:34:57] ...lsp/handlers.lua:454	"2022/05/14 00:34:57 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:34:57] ...lsp/handlers.lua:454	"2022/05/14 00:34:57 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:09] ...lsp/handlers.lua:454	"2022/05/14 00:35:09 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:09] ...lsp/handlers.lua:454	"2022/05/14 00:35:09 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:11] ...lsp/handlers.lua:454	"2022/05/14 00:35:11 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:13] ...lsp/handlers.lua:454	"2022/05/14 00:35:13 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:13] ...lsp/handlers.lua:454	"2022/05/14 00:35:13 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:14] ...lsp/handlers.lua:454	"2022/05/14 00:35:14 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:16] ...lsp/handlers.lua:454	"2022/05/14 00:35:16 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:26] ...lsp/handlers.lua:454	"2022/05/14 00:35:26 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:26] ...lsp/handlers.lua:454	"2022/05/14 00:35:26 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:27] ...lsp/handlers.lua:454	"2022/05/14 00:35:27 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:27] ...lsp/handlers.lua:454	"2022/05/14 00:35:27 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:29] ...lsp/handlers.lua:454	"2022/05/14 00:35:29 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:30] ...lsp/handlers.lua:454	"2022/05/14 00:35:30 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:31] ...lsp/handlers.lua:454	"2022/05/14 00:35:31 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:32] ...lsp/handlers.lua:454	"2022/05/14 00:35:32 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:33] ...lsp/handlers.lua:454	"2022/05/14 00:35:33 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:33] ...lsp/handlers.lua:454	"2022/05/14 00:35:33 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:34] ...lsp/handlers.lua:454	"2022/05/14 00:35:34 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:34] ...lsp/handlers.lua:454	"2022/05/14 00:35:34 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:36] ...lsp/handlers.lua:454	"2022/05/14 00:35:36 no completions found: this is a definition of var d invalid type\n\tposition={47 9}\n"
+[ERROR][2022-05-14 00:35:36] ...lsp/handlers.lua:454	"2022/05/14 00:35:36 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:37] ...lsp/handlers.lua:454	"2022/05/14 00:35:37 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:38] ...lsp/handlers.lua:454	"2022/05/14 00:35:38 no completions found: this is a definition of var data invalid type\n\tposition={47 12}\n"
+[ERROR][2022-05-14 00:35:38] ...lsp/handlers.lua:454	"2022/05/14 00:35:38 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:40] ...lsp/handlers.lua:454	"2022/05/14 00:35:40 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:41] ...lsp/handlers.lua:454	"2022/05/14 00:35:41 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:42] ...lsp/handlers.lua:454	"2022/05/14 00:35:42 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:43] ...lsp/handlers.lua:454	"2022/05/14 00:35:43 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:43] ...lsp/handlers.lua:454	"2022/05/14 00:35:43 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:44] ...lsp/handlers.lua:454	"2022/05/14 00:35:44 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:44] ...lsp/handlers.lua:454	'2022/05/14 00:35:44 unable to compute positions for type errors: no parsed file for  in sbsc\n\tpackage="sbsc"\n'
+[ERROR][2022-05-14 00:35:44] ...lsp/handlers.lua:454	"2022/05/14 00:35:44 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:47] ...lsp/handlers.lua:454	'2022/05/14 00:35:47 unable to compute positions for type errors: no parsed file for  in sbsc\n\tpackage="sbsc"\n'
+[ERROR][2022-05-14 00:35:47] ...lsp/handlers.lua:454	"2022/05/14 00:35:47 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:48] ...lsp/handlers.lua:454	'2022/05/14 00:35:48 unable to compute positions for type errors: no parsed file for  in sbsc\n\tpackage="sbsc"\n'
+[ERROR][2022-05-14 00:35:48] ...lsp/handlers.lua:454	"2022/05/14 00:35:48 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:49] ...lsp/handlers.lua:454	"2022/05/14 00:35:49 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:50] ...lsp/handlers.lua:454	"2022/05/14 00:35:50 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:50] ...lsp/handlers.lua:454	"2022/05/14 00:35:50 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:51] ...lsp/handlers.lua:454	'2022/05/14 00:35:51 unable to compute positions for type errors: no parsed file for  in sbsc\n\tpackage="sbsc"\n'
+[ERROR][2022-05-14 00:35:51] ...lsp/handlers.lua:454	"2022/05/14 00:35:51 no completions found: this is a definition of var data invalid type\n\tposition={47 12}\n"
+[ERROR][2022-05-14 00:35:51] ...lsp/handlers.lua:454	"2022/05/14 00:35:51 no completions found: this is a definition of var dat invalid type\n\tposition={47 11}\n"
+[ERROR][2022-05-14 00:35:51] ...lsp/handlers.lua:454	"2022/05/14 00:35:51 no completions found: this is a definition of var da invalid type\n\tposition={47 10}\n"
+[ERROR][2022-05-14 00:35:51] ...lsp/handlers.lua:454	"2022/05/14 00:35:51 no completions found: this is a definition of var d invalid type\n\tposition={47 9}\n"
+[ERROR][2022-05-14 00:35:52] ...lsp/handlers.lua:454	"2022/05/14 00:35:52 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:54] ...lsp/handlers.lua:454	"2022/05/14 00:35:54 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:35:55] ...lsp/handlers.lua:454	"2022/05/14 00:35:55 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:36:27] ...lsp/handlers.lua:454	"2022/05/14 00:36:27 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:36:59] ...lsp/handlers.lua:454	"2022/05/14 00:36:59 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:37:02] ...lsp/handlers.lua:454	"2022/05/14 00:37:02 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:37:03] ...lsp/handlers.lua:454	"2022/05/14 00:37:03 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:37:06] ...lsp/handlers.lua:454	"2022/05/14 00:37:06 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:37:14] ...lsp/handlers.lua:454	"2022/05/14 00:37:14 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[ERROR][2022-05-14 00:37:29] ...lsp/handlers.lua:454	"2022/05/14 00:37:29 tidy: diagnosing file:///home/akame/Prog/SBSC-Web-server/go.mod: err: exit status 1: stderr: go: downloading github.com/stretchr/testify v1.2.3-0.20181224173747-660f15d67dbb\nsbsc imports\n\tgithub.com/360EntSecGroup-Skylar/excelize tested by\n\tgithub.com/360EntSecGroup-Skylar/excelize.test imports\n\tgithub.com/stretchr/testify/assert: module lookup disabled by GOPROXY=off\n\n"
+[START][2022-05-14 02:00:44] LSP logging initiated
+[START][2022-05-14 02:04:24] LSP logging initiated
+[START][2022-05-14 12:02:54] LSP logging initiated
+[WARN][2022-05-14 12:02:55] ...lsp/handlers.lua:109	"The language server pyright triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2022-05-14 12:02:55] ...lsp/handlers.lua:456	"stubPath /home/akame/Prog/Stella_backend/src/typings is not a valid directory."
+[START][2022-05-14 12:03:43] LSP logging initiated
+[WARN][2022-05-14 12:03:43] ...lsp/handlers.lua:109	"The language server pyright triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2022-05-14 12:03:43] ...lsp/handlers.lua:456	"stubPath typings is not a valid directory."
+[START][2022-05-14 16:14:07] LSP logging initiated
+[WARN][2022-05-14 16:14:08] ...lsp/handlers.lua:109	"The language server pyright triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[WARN][2022-05-14 16:14:08] ...lsp/handlers.lua:456	"stubPath typings is not a valid directory."
+[START][2022-05-14 18:55:09] LSP logging initiated
+[START][2022-05-14 18:56:44] LSP logging initiated

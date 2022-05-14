@@ -1,0 +1,311 @@
+[DEBUG Fri 13 May 2022 02:21:50 AM +04 25997902352504] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:21:50 AM +04 25998264945869] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:21:50 AM +04 25998265032222] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:21:50 AM +04 25998442891267] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:21:50 AM +04 25998443180695] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:21:51 AM +04 25999340281901] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:21:51 AM +04 25999340333523] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:21:51 AM +04 25999465964998] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:21:51 AM +04 25999466426438] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:21:52 AM +04 26000385426081] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:21:52 AM +04 26000385517603] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:21:52 AM +04 26000501722301] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:21:52 AM +04 26000502112148] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:21:53 AM +04 26001206039191] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:21:53 AM +04 26001206109770] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:21:53 AM +04 26001308020279] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:21:53 AM +04 26001308271096] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:21:54 AM +04 26001714495862] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:21:54 AM +04 26001714571610] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:21:54 AM +04 26001845732487] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:21:54 AM +04 26001846012899] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:22:24 AM +04 26031653685339] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:22:24 AM +04 26031653743862] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:22:24 AM +04 26031756720385] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:22:24 AM +04 26031757088147] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:22:46 AM +04 26053604741429] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:22:46 AM +04 26053604829453] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:22:46 AM +04 26053710582753] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:22:46 AM +04 26053710809173] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:36:46 AM +04 26893654961975] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:36:46 AM +04 26893876843682] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:36:46 AM +04 26893876930286] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:36:46 AM +04 26893960847285] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:36:46 AM +04 26893960918604] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:36:46 AM +04 26894148964131] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:36:46 AM +04 26894154347136] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:36:46 AM +04 26894154815530] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:36:46 AM +04 26894192799055] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:36:48 AM +04 26895628692491] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:36:48 AM +04 26895628768516] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:36:48 AM +04 26895746029156] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:36:48 AM +04 26895770965472] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:37:23 AM +04 26930657474467] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:37:24 AM +04 26931791571276] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:37:24 AM +04 26931791611046] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:37:24 AM +04 26931942075336] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:37:24 AM +04 26931949124457] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:37:25 AM +04 26932996596590] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:37:25 AM +04 26932996644833] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:37:25 AM +04 26933125088372] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:37:25 AM +04 26933125305397] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:37:26 AM +04 26933906211316] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:37:26 AM +04 26933906245349] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:37:26 AM +04 26934041778142] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:37:26 AM +04 26934042072620] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:37:26 AM +04 26934433194406] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:37:26 AM +04 26934433314425] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:37:27 AM +04 26934635576769] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:37:27 AM +04 26934635821170] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:37:30 AM +04 26937744798702] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:37:30 AM +04 26937744887424] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:37:30 AM +04 26937879740052] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:37:30 AM +04 26937879979576] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:38:06 AM +04 26973602104485] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:38:06 AM +04 26973602144134] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:38:06 AM +04 26973719084828] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:38:06 AM +04 26973719319320] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:38:28 AM +04 26996224270997] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:38:28 AM +04 26996224324351] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:38:28 AM +04 26996339138402] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:38:28 AM +04 26996339398789] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:47:36 AM +04 27544125863190] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 02:47:51 AM +04 27558840888774] .../site/pack/packer/start/packer.nvim/lua/packer/clean.lua:79: Cleaning cancelled!
+[DEBUG Fri 13 May 2022 02:47:55 AM +04 27563409777185] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:47:55 AM +04 27563409912462] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:47:55 AM +04 27563552220537] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:47:55 AM +04 27563552450134] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 02:48:02 AM +04 27570333719792] .../site/pack/packer/start/packer.nvim/lua/packer/clean.lua:79: Cleaning cancelled!
+[DEBUG Fri 13 May 2022 02:49:07 AM +04 27635394129646] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:49:07 AM +04 27635394178560] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:49:07 AM +04 27635541033932] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:49:07 AM +04 27635541272164] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 02:49:18 AM +04 27645637913760] .../site/pack/packer/start/packer.nvim/lua/packer/clean.lua:79: Cleaning cancelled!
+[DEBUG Fri 13 May 2022 02:49:23 AM +04 27651011686306] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:49:23 AM +04 27651011758954] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:49:23 AM +04 27651145658864] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:49:23 AM +04 27651145864776] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:49:28 AM +04 27656353318336] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:49:28 AM +04 27656353385387] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:49:28 AM +04 27656487038707] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:49:28 AM +04 27656487273721] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:49:29 AM +04 27656995812892] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:49:29 AM +04 27656995900971] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:49:29 AM +04 27657134904554] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:49:29 AM +04 27657135152442] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:49:31 AM +04 27659411755229] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:49:31 AM +04 27659411833781] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:49:31 AM +04 27659556586383] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:49:31 AM +04 27659556816395] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:42 AM +04 27790291188461] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:51:42 AM +04 27790291492334] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27790748513143] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27790748571784] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27791071750084] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27791071788144] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:51:43 AM +04 27791416199413] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[INFO  Fri 13 May 2022 02:51:43 AM +04 27791416500845] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27791417178696] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27791417875742] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27791418301173] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:43 AM +04 27791419921766] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:51:43 AM +04 27791515590308] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:51:44 AM +04 27791888071863] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:51:44 AM +04 27791888124137] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:44 AM +04 27792042156504] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:51:44 AM +04 27792206576280] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:51:47 AM +04 27794657624821] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:51:47 AM +04 27794657675298] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:51:47 AM +04 27794749694223] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:51:47 AM +04 27794998793936] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:52:01 AM +04 27809455550561] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:52:01 AM +04 27809455785060] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:52:02 AM +04 27809947894533] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:52:02 AM +04 27809948332485] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:55:14 AM +04 28002221058365] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:55:14 AM +04 28002221218936] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 02:55:14 AM +04 28002447783973] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 02:55:14 AM +04 28002448549003] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 02:56:49 AM +04 28096974028434] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 02:56:49 AM +04 28096974153395] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 02:56:58 AM +04 28106454091470] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[WARN  Fri 13 May 2022 02:57:57 AM +04 28165384667711] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[WARN  Fri 13 May 2022 03:04:44 AM +04 28571884652573] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[DEBUG Fri 13 May 2022 03:04:44 AM +04 28572147368788] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:05:24 AM +04 28612172667307] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[DEBUG Fri 13 May 2022 03:05:24 AM +04 28612310077358] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:10:09 AM +04 28897278569792] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:10:09 AM +04 28897278649589] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:10:09 AM +04 28897281846172] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:10:09 AM +04 28897461899694] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:10:09 AM +04 28897462415047] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:10:15 AM +04 28902924717770] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:10:15 AM +04 28902924790451] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:10:15 AM +04 28902928835166] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:10:15 AM +04 28903077849027] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:10:15 AM +04 28903078067660] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:10:15 AM +04 28903563770037] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:10:15 AM +04 28903563828021] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:10:15 AM +04 28903572662372] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:10:16 AM +04 28903754725665] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:10:16 AM +04 28903755045360] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:10:30 AM +04 28918262338858] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:10:30 AM +04 28918262397093] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:10:30 AM +04 28918265528168] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:10:30 AM +04 28918410396785] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:10:30 AM +04 28918410630661] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:10:46 AM +04 28933885483829] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:10:46 AM +04 28933885551500] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:10:46 AM +04 28933889552631] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:10:46 AM +04 28934039943580] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:10:46 AM +04 28934040171852] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:10:59 AM +04 28947434895390] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:10:59 AM +04 28947434971922] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:10:59 AM +04 28947439647981] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:11:00 AM +04 28947653854790] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:11:00 AM +04 28947654094548] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:11:35 AM +04 28983195407893] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:11:35 AM +04 28983195470800] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:11:35 AM +04 28983198945735] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:11:35 AM +04 28983366506885] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:11:35 AM +04 28983366803127] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:11:36 AM +04 28983838676331] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:11:36 AM +04 28983838790747] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:11:36 AM +04 28983840679291] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:11:36 AM +04 28983981724362] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:11:36 AM +04 28983988016500] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:11:50 AM +04 28997632511048] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:11:50 AM +04 28997632571633] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:11:50 AM +04 28997635651947] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:11:50 AM +04 28997787664434] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:11:50 AM +04 28997787968985] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:11:51 AM +04 28998676902476] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:11:51 AM +04 28998676978341] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:11:51 AM +04 28998685453789] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:11:51 AM +04 28998894407940] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:11:51 AM +04 28998894651487] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:14:01 AM +04 29128699882606] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:14:01 AM +04 29128699941635] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:14:01 AM +04 29128704488555] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:14:01 AM +04 29128897067417] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:14:01 AM +04 29128897334718] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:14:02 AM +04 29129700880974] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:14:02 AM +04 29129700948490] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:14:02 AM +04 29129704286604] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:14:02 AM +04 29129911083873] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:14:02 AM +04 29129911348721] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:14:32 AM +04 29160452768053] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:14:32 AM +04 29160452824376] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:14:32 AM +04 29160456141280] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:14:33 AM +04 29160667906174] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:14:33 AM +04 29160668394090] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:14:50 AM +04 29178135839731] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:14:50 AM +04 29178135885544] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:14:50 AM +04 29178140074832] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:14:50 AM +04 29178374367869] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:14:50 AM +04 29178375240233] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:14:51 AM +04 29179528711587] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:14:51 AM +04 29179528828680] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:14:51 AM +04 29179532788642] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:14:52 AM +04 29179736105980] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:14:52 AM +04 29179736509995] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:15:14 AM +04 29201995391997] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:15:14 AM +04 29201995454894] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:15:14 AM +04 29201999541401] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:15:14 AM +04 29202206404441] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:15:14 AM +04 29202206906512] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:15:38 AM +04 29226401632342] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:15:38 AM +04 29226401708513] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:15:38 AM +04 29226404908008] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:15:39 AM +04 29226632662882] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:15:39 AM +04 29226632987554] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:15:52 AM +04 29240003046984] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:15:52 AM +04 29240003113043] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:15:52 AM +04 29240006766267] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:15:52 AM +04 29240211423992] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:15:52 AM +04 29240211801193] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:18:07 AM +04 29375132238095] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:18:07 AM +04 29375132328190] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:18:07 AM +04 29375136180475] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:18:07 AM +04 29375313483418] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:18:07 AM +04 29375313925216] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:18:08 AM +04 29376523467233] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:18:08 AM +04 29376523532333] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:18:08 AM +04 29376526857510] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:18:09 AM +04 29376690978208] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:18:09 AM +04 29376691222233] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:22:30 AM +04 29637814783993] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:22:30 AM +04 29637815063403] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:22:30 AM +04 29637819996415] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:22:30 AM +04 29638076685928] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:22:30 AM +04 29638077331368] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:23:12 AM +04 29679766250656] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:23:12 AM +04 29679766323925] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:23:12 AM +04 29679770207840] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:23:12 AM +04 29679956223296] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:23:12 AM +04 29679956495715] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:23:13 AM +04 29681505002755] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:23:13 AM +04 29681505104087] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:23:13 AM +04 29681510392887] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:23:14 AM +04 29681695116565] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:23:14 AM +04 29681695356520] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:24:31 AM +04 29759334591259] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:24:31 AM +04 29759334651755] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:24:31 AM +04 29759338213475] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:24:31 AM +04 29759530421843] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:24:31 AM +04 29759530801677] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:24:55 AM +04 29782665631698] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:24:55 AM +04 29782665699068] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:24:55 AM +04 29782670338069] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:24:55 AM +04 29782880629816] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:24:55 AM +04 29782880915586] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:25:49 AM +04 29837210318727] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:25:49 AM +04 29837210414090] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:25:49 AM +04 29837214573447] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:25:49 AM +04 29837408464645] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:25:49 AM +04 29837408845875] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:26:08 AM +04 29855910737239] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:26:08 AM +04 29855910802013] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:26:08 AM +04 29855915238791] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:26:08 AM +04 29856146637377] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:26:08 AM +04 29856147126089] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:26:08 AM +04 29856446185546] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:26:08 AM +04 29856446271732] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:26:08 AM +04 29856458342950] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[DEBUG Fri 13 May 2022 03:26:10 AM +04 29858078122602] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:26:10 AM +04 29858078714024] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:26:10 AM +04 29858081864608] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:26:10 AM +04 29858175930901] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:26:10 AM +04 29858176241889] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 03:26:10 AM +04 29858176590668] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[INFO  Fri 13 May 2022 03:26:10 AM +04 29858421242420] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:26:11 AM +04 29859494959106] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 03:26:11 AM +04 29859495029282] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 03:26:11 AM +04 29859498594213] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 03:26:12 AM +04 29859692931191] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 03:26:12 AM +04 29859693182009] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 12:00:17 PM +04 31759205614132] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[DEBUG Fri 13 May 2022 12:00:17 PM +04 31759528208007] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 12:00:19 PM +04 31760853782505] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 12:00:19 PM +04 31760853868680] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 12:00:19 PM +04 31760858982992] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 12:00:19 PM +04 31761028908035] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 12:00:19 PM +04 31761029200193] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 12:00:31 PM +04 31773493947936] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 12:00:31 PM +04 31773494147828] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 12:00:31 PM +04 31773497723039] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 12:00:31 PM +04 31773711145341] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 12:00:31 PM +04 31773711547064] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 12:00:32 PM +04 31774765136282] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 12:00:32 PM +04 31774765195949] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 12:00:32 PM +04 31774768199832] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 12:00:33 PM +04 31775074030012] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 12:00:33 PM +04 31775085906146] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 12:02:23 PM +04 31885275102506] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 12:02:23 PM +04 31885275165639] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 12:02:23 PM +04 31885280424128] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
+[INFO  Fri 13 May 2022 12:02:23 PM +04 31885466099923] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:401: All configured plugins are installed
+[DEBUG Fri 13 May 2022 12:02:23 PM +04 31885466415076] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[DEBUG Fri 13 May 2022 12:02:26 PM +04 31888175336416] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:380: packer.install: requiring modules
+[DEBUG Fri 13 May 2022 12:02:26 PM +04 31888175473932] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:324: Processing plugin specs
+[WARN  Fri 13 May 2022 12:02:26 PM +04 31888186725351] ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:204: Plugin "toggleterm.nvim" is used twice! (line 104)
