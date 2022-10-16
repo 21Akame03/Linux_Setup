@@ -1,8 +1,0 @@
-00:51:00 [WARN ] lvim: "Unable to find configuration file [/home/akame/.config/nvim/config.lua]" file="lua/lvim/config/init.lua", line=114
-00:51:47 [WARN ] lvim: "Unable to find configuration file [/home/akame/.config/nvim/config.lua]" file="lua/lvim/config/init.lua", line=114
-02:37:22 [WARN ] lvim: "Invalid configuration: /home/akame/.config/nvim/config.lua:9: unexpected symbol near '['" file="lua/lvim/config/init.lua", line=112
-02:37:24 [WARN ] lvim: "Invalid configuration: /home/akame/.config/nvim/config.lua:9: unexpected symbol near '['" file="lua/lvim/config/init.lua", line=112
-02:37:25 [WARN ] lvim: "Invalid configuration: /home/akame/.config/nvim/config.lua:9: unexpected symbol near '['" file="lua/lvim/config/init.lua", line=112
-02:37:26 [WARN ] lvim: "Invalid configuration: /home/akame/.config/nvim/config.lua:9: unexpected symbol near '['" file="lua/lvim/config/init.lua", line=112
-02:37:26 [WARN ] lvim: "Invalid configuration: /home/akame/.config/nvim/config.lua:9: unexpected symbol near '['" file="lua/lvim/config/init.lua", line=112
-03:22:30 [WARN ] lvim: "Invalid configuration: /home/akame/.config/nvim/config.lua:8: Vim:E492: Not an editor command: ilent nnoremap <C-v> :ToggleTerm size=60 direction=vertical <CR>" file="lua/lvim/config/init.lua", line=112

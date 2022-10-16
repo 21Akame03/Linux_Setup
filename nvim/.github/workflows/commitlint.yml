@@ -1,9 +1,5 @@
 name: "Commit Linter"
-on:
-  pull_request:
-    branches:
-      - "rolling"
-
+on: pull_request
 jobs:
   lint-commits:
     runs-on: ubuntu-latest
@@ -17,4 +13,3 @@ jobs:
         with:
           configFile: .github/workflows/commitlint.config.js
           helpURL: https://github.com/LunarVim/LunarVim/blob/rolling/CONTRIBUTING.md#commit-messages
-          firstParent: true

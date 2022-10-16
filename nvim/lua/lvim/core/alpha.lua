@@ -47,27 +47,28 @@ local function resolve_config(theme_name)
 end
 
 local function configure_additional_autocmds()
-  local aucmds = {
-    {
-      "FileType",
-      "alpha",
-      "set showtabline=0 | autocmd BufLeave <buffer> set showtabline=" .. vim.opt.showtabline._value,
-    },
-  }
+  local group = "_dashboard_settings"
+  vim.api.nvim_create_augroup(group, {})
+  vim.api.nvim_create_autocmd("FileType", {
+    group = group,
+    pattern = "alpha",
+    command = "set showtabline=0 | autocmd BufLeave <buffer> set showtabline=" .. vim.opt.showtabline._value,
+  })
   if not lvim.builtin.lualine.options.globalstatus then
-    aucmds[#aucmds + 1] =
-      -- https://github.com/goolord/alpha-nvim/issues/42
-      {
-        "FileType",
-        "alpha",
-        "set laststatus=0 | autocmd BufUnload <buffer> set laststatus=" .. vim.opt.laststatus._value,
-      }
+    -- https://github.com/goolord/alpha-nvim/issues/42
+    vim.api.nvim_create_autocmd("FileType", {
+      group = group,
+      pattern = "alpha",
+      command = "set laststatus=0 | autocmd BufUnload <buffer> set laststatus=" .. vim.opt.laststatus._value,
+    })
   end
-  require("lvim.core.autocmds").define_augroups { _alpha = aucmds }
 end
 
 function M.setup()
-  local alpha = require "alpha"
+  local status_ok, alpha = pcall(require, "alpha")
+  if not status_ok then
+    return
+  end
   local mode = lvim.builtin.alpha.mode
   local config = lvim.builtin.alpha[mode].config
 

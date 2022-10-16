@@ -1,4 +1,3 @@
-plugin/
 dein
 tags*
 .netrwhist
@@ -28,4 +27,4 @@ lua/lv-user-config/
 *.backup
 *.old
 
-.luarc.json
+.luacheckcache

@@ -2,39 +2,28 @@ local M = {}
 local Log = require "lvim.core.log"
 
 function M.config()
-  local vim_show_icons = lvim.use_icons and 1 or 0
   lvim.builtin.nvimtree = {
     active = true,
     on_config_done = nil,
     setup = {
-      disable_netrw = true,
-      hijack_netrw = true,
-      open_on_setup = false,
-      open_on_setup_file = false,
-      sort_by = "name",
-      ignore_buffer_on_setup = false,
       ignore_ft_on_setup = {
         "startify",
         "dashboard",
         "alpha",
       },
-      auto_reload_on_write = true,
-      hijack_unnamed_buffer_when_opening = false,
+      auto_reload_on_write = false,
       hijack_directories = {
-        enable = true,
-        auto_open = true,
+        enable = false,
       },
-      open_on_tab = false,
-      hijack_cursor = false,
-      update_cwd = false,
+      update_cwd = true,
       diagnostics = {
         enable = lvim.use_icons,
         show_on_dirs = false,
         icons = {
-          hint = "",
-          info = "",
-          warning = "",
-          error = "",
+          hint = lvim.icons.diagnostics.BoldHint,
+          info = lvim.icons.diagnostics.BoldInformation,
+          warning = lvim.icons.diagnostics.BoldWarning,
+          error = lvim.icons.diagnostics.BoldError,
         },
       },
       update_focused_file = {
@@ -53,10 +42,8 @@ function M.config()
       },
       view = {
         width = 30,
-        height = 30,
         hide_root_folder = false,
         side = "left",
-        preserve_window_proportions = false,
         mappings = {
           custom_only = false,
           list = {},
@@ -69,14 +56,44 @@ function M.config()
         indent_markers = {
           enable = false,
           icons = {
-            corner = "└ ",
-            edge = "│ ",
-            none = "  ",
+            corner = "└",
+            edge = "│",
+            item = "│",
+            none = " ",
           },
         },
         icons = {
           webdev_colors = lvim.use_icons,
+          show = {
+            git = lvim.use_icons,
+            folder = lvim.use_icons,
+            file = lvim.use_icons,
+            folder_arrow = lvim.use_icons,
+          },
+          glyphs = {
+            default = lvim.icons.ui.Text,
+            symlink = lvim.icons.ui.FileSymlink,
+            git = {
+              deleted = lvim.icons.git.FileDeleted,
+              ignored = lvim.icons.git.FileIgnored,
+              renamed = lvim.icons.git.FileRenamed,
+              staged = lvim.icons.git.FileStaged,
+              unmerged = lvim.icons.git.FileUnmerged,
+              unstaged = lvim.icons.git.FileUnstaged,
+              untracked = lvim.icons.git.FileUntracked,
+            },
+            folder = {
+              default = lvim.icons.ui.Folder,
+              empty = lvim.icons.ui.EmptyFolder,
+              empty_open = lvim.icons.ui.EmptyFolderOpen,
+              open = lvim.icons.ui.FolderOpen,
+              symlink = lvim.icons.ui.FolderSymlink,
+            },
+          },
         },
+        highlight_git = true,
+        group_empty = false,
+        root_folder_modifier = ":t",
       },
       filters = {
         dotfiles = false,
@@ -120,36 +137,7 @@ function M.config()
         },
       },
     },
-    show_icons = {
-      git = vim_show_icons,
-      folders = vim_show_icons,
-      files = vim_show_icons,
-      folder_arrows = vim_show_icons,
-    },
-    git_hl = 1,
-    root_folder_modifier = ":t",
-    icons = {
-      default = "",
-      symlink = "",
-      git = {
-        unstaged = "",
-        staged = "S",
-        unmerged = "",
-        renamed = "➜",
-        deleted = "",
-        untracked = "U",
-        ignored = "◌",
-      },
-      folder = {
-        default = "",
-        open = "",
-        empty = "",
-        empty_open = "",
-        symlink = "",
-      },
-    },
   }
-  lvim.builtin.which_key.mappings["e"] = { "<cmd>NvimTreeToggle<CR>", "Explorer" }
 end
 
 function M.setup()
@@ -159,13 +147,35 @@ function M.setup()
     return
   end
 
-  for opt, val in pairs(lvim.builtin.nvimtree) do
-    vim.g["nvim_tree_" .. opt] = val
+  local status_ok_1, utils = pcall(require, "nvim-tree.utils")
+  if not status_ok_1 then
+    return
   end
+
+  local function notify_level()
+    return function(msg)
+      vim.schedule(function()
+        vim.api.nvim_echo({ { msg, "WarningMsg" } }, false, {})
+      end)
+    end
+  end
+
+  utils.notify.warn = notify_level(vim.log.levels.WARN)
+  utils.notify.error = notify_level(vim.log.levels.ERROR)
+  utils.notify.info = notify_level(vim.log.levels.INFO)
+  utils.notify.debug = notify_level(vim.log.levels.DEBUG)
+
+  if lvim.builtin.nvimtree._setup_called then
+    Log:debug "ignoring repeated setup call for nvim-tree, see kyazdani42/nvim-tree.lua#1308"
+    return
+  end
+
+  lvim.builtin.which_key.mappings["e"] = { "<cmd>NvimTreeToggle<CR>", "Explorer" }
+  lvim.builtin.nvimtree._setup_called = true
 
   -- Implicitly update nvim-tree when project module is active
   if lvim.builtin.project.active then
-    lvim.builtin.nvimtree.respect_buf_cwd = 1
+    lvim.builtin.nvimtree.setup.respect_buf_cwd = true
     lvim.builtin.nvimtree.setup.update_cwd = true
     lvim.builtin.nvimtree.setup.update_focused_file = { enable = true, update_cwd = true }
   end
@@ -173,6 +183,7 @@ function M.setup()
   local function telescope_find_files(_)
     require("lvim.core.nvimtree").start_telescope "find_files"
   end
+
   local function telescope_live_grep(_)
     require("lvim.core.nvimtree").start_telescope "live_grep"
   end

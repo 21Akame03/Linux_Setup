@@ -38,7 +38,8 @@ a.describe("plugin-loader", function()
       assert.truthy(package.loaded[plugin])
     end
   end)
-  a.it("should be able to rollback plugins without errors", function()
+
+  pending("should be able to rollback plugins without errors", function()
     local plugin = { name = "onedarker.nvim" }
     plugin.path = vim.tbl_filter(function(package)
       return package:match(plugin.name)
@@ -58,7 +59,7 @@ a.describe("plugin-loader", function()
     _G.completed = false
     _G.verify_sha = function()
       if _G.locked_sha ~= get_current_sha(plugin.path) then
-        error "unmached results!"
+        error "unmatched results!"
       else
         _G.completed = true
       end

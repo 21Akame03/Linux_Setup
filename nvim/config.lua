@@ -1,26 +1,43 @@
 -- custom
+lvim.transparent_window = true
+lvim.builtin.lualine.style = "lvim"
+lvim.builtin.which_key.active = true
 
--- keybindings
+
+-- keybindings 
 vim.cmd("nnoremap <C-z> :undo <CR>")
-vim.cmd("nnoremap <C-s> :w <CR>")
 vim.cmd("inoremap <C-z> :undo <CR>")
+vim.cmd("inoremap <C-y> :redo <CR>")
+vim.cmd("nnoremap <C-y> :redo <CR>")
+vim.cmd("nnoremap <C-s> :w <CR>")
 vim.cmd("nnoremap <C-q> :q <CR>")
-vim.cmd("nnoremap <C-h> :silent ToggleTerm size=15 direction=horizontal <CR>")
-vim.cmd("nnoremap <C-v> :silent ToggleTerm direction=vertical <CR>")
+vim.cmd("nnoremap <S-Tab> << ")
+vim.cmd("nnoremap <Tab> >> ")
+vim.cmd("vnoremap <Tab> >> ")
+vim.cmd("vnoremap <S-Tab> << ")
+vim.cmd("inoremap <S-Tab> <C-d>")
+vim.cmd("inoremap <Tab> <C-t>")
+
+vim.cmd("nnoremap <C-h> :ToggleTerm size=20 direction=horizontal <CR>")
+vim.cmd("nnoremap <C-v> :ToggleTerm size=60 direction=vertical <CR>")
+vim.cmd("nnoremap <C-f> :ToggleTerm direction=float <CR>")
+
+
+
+
 
 function _G.set_terminal_keymaps()
-  local opts = { noremap = true }
-  vim.api.nvim_buf_set_keymap(0, 't', '<esc>', [[<C-\><C-n>]], opts)
-  vim.api.nvim_buf_set_keymap(0, 't', 'jk', [[<C-\><C-n>]], opts)
-  vim.api.nvim_buf_set_keymap(0, 't', '<C-h>', [[<C-\><C-n><C-W>h]], opts)
-  vim.api.nvim_buf_set_keymap(0, 't', '<C-j>', [[<C-\><C-n><C-W>j]], opts)
-  vim.api.nvim_buf_set_keymap(0, 't', '<C-k>', [[<C-\><C-n><C-W>k]], opts)
-  vim.api.nvim_buf_set_keymap(0, 't', '<C-l>', [[<C-\><C-n><C-W>l]], opts)
+  local opts = {buffer = 0}
+  vim.keymap.set('t', '<esc>', [[<C-\><C-n>]], opts)
+  vim.keymap.set('t', 'jk', [[<C-\><C-n>]], opts)
+  vim.keymap.set('t', '<C-h>', [[<Cmd>wincmd h<CR>]], opts)
+  vim.keymap.set('t', '<C-j>', [[<Cmd>wincmd j<CR>]], opts)
+  vim.keymap.set('t', '<C-k>', [[<Cmd>wincmd k<CR>]], opts)
+  vim.keymap.set('t', '<C-l>', [[<Cmd>wincmd l<CR>]], opts)
 end
 
 -- if you only want these mappings for toggle term use term://*toggleterm#* instead
 vim.cmd('autocmd! TermOpen term://* lua set_terminal_keymaps()')
-
 
 
 --[[
@@ -35,9 +52,8 @@ an executable
 
 -- general
 lvim.log.level = "warn"
-lvim.format_on_save = true
+lvim.format_on_save = false
 lvim.colorscheme = "nord"
-lvim.builtin.terminal.active = true
 -- to disable icons and use a minimalist setup, uncomment the following
 -- lvim.use_icons = false
 
@@ -45,11 +61,14 @@ lvim.builtin.terminal.active = true
 lvim.leader = "space"
 -- add your own keymapping
 lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
+-- lvim.keys.normal_mode["<S-l>"] = ":BufferLineCycleNext<CR>"
+-- lvim.keys.normal_mode["<S-h>"] = ":BufferLineCyclePrev<CR>"
 -- unmap a default keymapping
--- lvim.keys.normal_mode["<C-Up>"] = false
--- edit a default keymapping
--- lvim.keys.normal_mode["<C-q>"] = ":q<cr>"
+-- vim.keymap.del("n", "<C-Up>")
+-- override a default keymapping
+-- lvim.keys.normal_mode["<C-q>"] = ":q<cr>" -- or vim.keymap.set("n", "<C-q>", ":q<cr>" )
 
+-- Change Telescope navigation to use j and k for navigation and n and p for history in both input and normal mode.
 -- we use protected-mode (pcall) just in case the plugin wasn't loaded yet.
 -- local _, actions = pcall(require, "telescope.actions")
 -- lvim.builtin.telescope.defaults.mappings = {
@@ -67,6 +86,10 @@ lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
 --   },
 -- }
 
+-- Change theme settings
+-- lvim.builtin.theme.options.dim_inactive = true
+-- lvim.builtin.theme.options.style = "storm"
+
 -- Use which-key to add extra bindings with the leader-key prefix
 -- lvim.builtin.which_key.mappings["P"] = { "<cmd>Telescope projects<CR>", "Projects" }
 -- lvim.builtin.which_key.mappings["t"] = {
@@ -76,7 +99,7 @@ lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
 --   d = { "<cmd>Trouble document_diagnostics<cr>", "Diagnostics" },
 --   q = { "<cmd>Trouble quickfix<cr>", "QuickFix" },
 --   l = { "<cmd>Trouble loclist<cr>", "LocationList" },
---   w = { "<cmd>Trouble workspace_diagnostics<cr>", "Wordspace Diagnostics" },
+--   w = { "<cmd>Trouble workspace_diagnostics<cr>", "Workspace Diagnostics" },
 -- }
 
 -- TODO: User Config for predefined plugins
@@ -86,7 +109,7 @@ lvim.builtin.alpha.mode = "dashboard"
 lvim.builtin.notify.active = true
 lvim.builtin.terminal.active = true
 lvim.builtin.nvimtree.setup.view.side = "left"
-lvim.builtin.nvimtree.show_icons.git = 0
+lvim.builtin.nvimtree.setup.renderer.icons.show.git = false
 
 -- if you don't want all the parsers change this to a table of the ones you want
 lvim.builtin.treesitter.ensure_installed = {
@@ -105,12 +128,26 @@ lvim.builtin.treesitter.ensure_installed = {
 }
 
 lvim.builtin.treesitter.ignore_install = { "haskell" }
-lvim.builtin.treesitter.highlight.enabled = true
+lvim.builtin.treesitter.highlight.enable = true
 
 -- generic LSP settings
 
+-- -- make sure server will always be installed even if the server is in skipped_servers list
+-- lvim.lsp.installer.setup.ensure_installed = {
+--     "sumneko_lua",
+--     "jsonls",
+-- }
+-- -- change UI setting of `LspInstallInfo`
+-- -- see <https://github.com/williamboman/nvim-lsp-installer#default-configuration>
+-- lvim.lsp.installer.setup.ui.check_outdated_servers_on_open = false
+-- lvim.lsp.installer.setup.ui.border = "rounded"
+-- lvim.lsp.installer.setup.ui.keymaps = {
+--     uninstall_server = "d",
+--     toggle_server_expand = "o",
+-- }
+
 -- ---@usage disable automatic installation of servers
--- lvim.lsp.automatic_servers_installation = false
+-- lvim.lsp.installer.setup.automatic_installation = false
 
 -- ---configure a server manually. !!Requires `:LvimCacheReset` to take effect!!
 -- ---see the full default list `:lua print(vim.inspect(lvim.lsp.automatic_configuration.skipped_servers))`
@@ -119,8 +156,8 @@ lvim.builtin.treesitter.highlight.enabled = true
 -- require("lvim.lsp.manager").setup("pyright", opts)
 
 -- ---remove a server from the skipped list, e.g. eslint, or emmet_ls. !!Requires `:LvimCacheReset` to take effect!!
--- ---`:LvimInfo` lists which server(s) are skiipped for the current filetype
--- vim.tbl_map(function(server)
+-- ---`:LvimInfo` lists which server(s) are skipped for the current filetype
+-- lvim.lsp.automatic_configuration.skipped_servers = vim.tbl_filter(function(server)
 --   return server ~= "emmet_ls"
 -- end, lvim.lsp.automatic_configuration.skipped_servers)
 
@@ -167,10 +204,9 @@ lvim.builtin.treesitter.highlight.enabled = true
 --     filetypes = { "javascript", "python" },
 --   },
 -- }
-
+-------------------
 -- Additional Plugins
 -- lvim.plugins = {
---     {"folke/tokyonight.nvim"},
 --     {
 --       "folke/trouble.nvim",
 --       cmd = "TroubleToggle",
@@ -178,6 +214,15 @@ lvim.builtin.treesitter.highlight.enabled = true
 -- }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
--- lvim.autocommands.custom_groups = {
---   { "BufWinEnter", "*.lua", "setlocal ts=8 sw=8" },
--- }
+-- vim.api.nvim_create_autocmd("BufEnter", {
+--   pattern = { "*.json", "*.jsonc" },
+--   -- enable wrap mode for json files only
+--   command = "setlocal wrap",
+-- })
+-- vim.api.nvim_create_autocmd("FileType", {
+--   pattern = "zsh",
+--   callback = function()
+--     -- let treesitter use bash highlight for zsh files as well
+--     require("nvim-treesitter.highlight").attach(0, "bash")
+--   end,
+-- })
